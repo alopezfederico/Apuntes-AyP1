@@ -195,7 +195,8 @@ Estos parámetros son formas de comunicarnos entre el programa principal dentro 
 
 [Ejemplo PROCEDURE](Programas/Ej_procedure.pas)
 
-#### **Parámetros**: 
+#### **Parámetros**
+
 Se analiza para cada modulo: ¿Cuales son los datos propios/locales? y ¿Cuales son los datos compartidos?
 
 Los datos propios se declaran locales al modulo.
