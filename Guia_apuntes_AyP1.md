@@ -99,6 +99,6 @@ El registro es una forma de organizar informacion de manera que bajo el nombre q
 
 No es mas complejo que entender que por ejemplo si tenemos que ingresar informacion de una persona, donde de cada persona se conoce DNI, nombre, apellido y edad; se puede organizar la informacion en un registro.
 
-[Entendiendo REGISTROS](registros.pas)
+[Entendiendo REGISTROS](Programas/registros.pas)
 
 ---
