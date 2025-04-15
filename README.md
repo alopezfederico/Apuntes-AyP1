@@ -232,9 +232,8 @@ Este numero de veces que se deben ejecutar las acciones es fijo y conocido de an
 - Cuando el for termina la variable indice no tiene valor definido.
 
 
-[Entendiendo For]()
+[Entendiendo For](Programas/usandoFor.pas)
 
-[Entendiendo Repeat]()
 
 ---
 
@@ -247,9 +246,10 @@ Como su nombre lo indica las acciones se ejecutan dependiendo de la evaluacion d
 **Precondicional**:  El valor inicial de la condición debe ser conocido o evaluable antes de la evaluación de la condición.
 
 
-[Entendiendo While]()
+[Entendiendo While](Programas/usandoWhile.pas)
 
 
+[Entendiendo Repeat](Programas/usandoRepeat.pas)
 
 
 [Entendiendo Case]()
